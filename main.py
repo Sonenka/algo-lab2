@@ -19,7 +19,7 @@ def generate_data(n_rectangles, n_points):
 
 
 def test():
-    for i in range(5):
+    for i in range(11):
         n_rectangles, n_points = 2 ** i, 2 ** (i + 1)
         rectangles, points = generate_data(n_rectangles, n_points)
         simple_search_time, map_time, tree_time = 0, [0, 0], [0, 0]
@@ -41,7 +41,8 @@ def test():
             map_time[1] += finish - start
 
             start = perf_counter_ns()
-            roots, compress_x, compress_y = build_persistent_segment_tree(rectangles)
+            compress_x, compress_y = compress_coordinates(rectangles)
+            roots = build_persistent_segment_tree(rectangles, compress_x, compress_y)
             finish = perf_counter_ns()
             tree_time[0] += finish - start
 
@@ -50,7 +51,13 @@ def test():
             finish = perf_counter_ns()
             tree_time[1] += finish - start
         
-        print(simple_search_time, map_time, tree_time)
+        print(simple_search_time, sum(map_time), sum(tree_time))
+        with open('results.txt', 'a') as f:
+            f.write(f'{n_rectangles} rectangles, {n_points} points:\n')
+            f.write(f'    Simple search: {simple_search_time}\n')
+            f.write(f'    Map algorithm: {map_time}\n')
+            f.write(f'    Tree algorithm: {tree_time}\n')
+            f.write('\n')
 
 
 def main():

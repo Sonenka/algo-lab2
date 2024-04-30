@@ -1,0 +1,330 @@
+1 rectangles, 2 points:
+    Simple search: 16900
+    Map algorithm: [34400, 15300]
+    Tree algorithm: [122500, 31900]n
+
+2 rectangles, 4 points:
+    Simple search: 44500
+    Map algorithm: [74700, 32300]
+    Tree algorithm: [462000, 68500]n
+
+4 rectangles, 8 points:
+    Simple search: 54000
+    Map algorithm: [116000, 88500]
+    Tree algorithm: [551400, 173200]n
+
+8 rectangles, 16 points:
+    Simple search: 142200
+    Map algorithm: [288600, 140100]
+    Tree algorithm: [1095600, 415200]n
+
+16 rectangles, 32 points:
+    Simple search: 390100
+    Map algorithm: [332400, 297300]
+    Tree algorithm: [2699500, 925100]n
+
+32 rectangles, 64 points:
+    Simple search: 1327900
+    Map algorithm: [660700, 498400]
+    Tree algorithm: [7092400, 2079500]n
+
+64 rectangles, 128 points:
+    Simple search: 4919100
+    Map algorithm: [1420600, 1217900]
+    Tree algorithm: [17918400, 4838500]n
+
+128 rectangles, 256 points:
+    Simple search: 19318800
+    Map algorithm: [3039400, 3029200]
+    Tree algorithm: [43367400, 9112700]n
+
+256 rectangles, 512 points:
+    Simple search: 68708500
+    Map algorithm: [5761200, 7137700]
+    Tree algorithm: [87565400, 22534600]n
+
+512 rectangles, 1024 points:
+    Simple search: 276943400
+    Map algorithm: [14343900, 15633600]
+    Tree algorithm: [227272600, 50511900]n
+
+1024 rectangles, 2048 points:
+    Simple search: 1277661400
+    Map algorithm: [30883400, 37558900]
+    Tree algorithm: [624680900, 115090600]n
+
+1 rectangles, 2 points:
+    Simple search: 29600
+    Map algorithm: [28000, 16600]
+    Tree algorithm: [90200, 29200]
+
+2 rectangles, 4 points:
+    Simple search: 36500
+    Map algorithm: [99500, 28200]
+    Tree algorithm: [269300, 77200]
+
+4 rectangles, 8 points:
+    Simple search: 37300
+    Map algorithm: [78500, 51500]
+    Tree algorithm: [479300, 116900]
+
+8 rectangles, 16 points:
+    Simple search: 88400
+    Map algorithm: [122700, 94600]
+    Tree algorithm: [840100, 267400]
+
+16 rectangles, 32 points:
+    Simple search: 334800
+    Map algorithm: [285000, 245200]
+    Tree algorithm: [2237000, 583000]
+
+32 rectangles, 64 points:
+    Simple search: 1546300
+    Map algorithm: [626100, 516200]
+    Tree algorithm: [6955700, 1568000]
+
+64 rectangles, 128 points:
+    Simple search: 4522400
+    Map algorithm: [1243000, 1248000]
+    Tree algorithm: [14930400, 3605900]
+
+128 rectangles, 256 points:
+    Simple search: 21466600
+    Map algorithm: [2697800, 3180700]
+    Tree algorithm: [87687700, 12624100]
+
+256 rectangles, 512 points:
+    Simple search: 65448100
+    Map algorithm: [6083300, 6162900]
+    Tree algorithm: [87819500, 20341000]
+
+512 rectangles, 1024 points:
+    Simple search: 294759400
+    Map algorithm: [14004100, 15573100]
+    Tree algorithm: [236128600, 53258000]
+
+1024 rectangles, 2048 points:
+    Simple search: 1041986000
+    Map algorithm: [28199300, 30948200]
+    Tree algorithm: [531503900, 105675300]
+
+1 rectangles, 2 points:
+    Simple search: 39500
+    Map algorithm: [72500, 37300]
+    Tree algorithm: [207100, 61400]
+
+2 rectangles, 4 points:
+    Simple search: 48400
+    Map algorithm: [95800, 58500]
+    Tree algorithm: [396000, 128100]
+
+4 rectangles, 8 points:
+    Simple search: 137400
+    Map algorithm: [335600, 278200]
+    Tree algorithm: [1860400, 479700]
+
+8 rectangles, 16 points:
+    Simple search: 357300
+    Map algorithm: [389800, 284900]
+    Tree algorithm: [2943900, 1000200]
+
+16 rectangles, 32 points:
+    Simple search: 1542700
+    Map algorithm: [1061600, 852000]
+    Tree algorithm: [9696300, 2564600]
+
+32 rectangles, 64 points:
+    Simple search: 4179300
+    Map algorithm: [3765300, 2714600]
+    Tree algorithm: [26266200, 6528900]
+
+64 rectangles, 128 points:
+    Simple search: 8563100
+    Map algorithm: [2378800, 3025400]
+    Tree algorithm: [32931000, 8754600]
+
+128 rectangles, 256 points:
+    Simple search: 49339100
+    Map algorithm: [7778000, 7924000]
+    Tree algorithm: [99984100, 24453600]
+
+256 rectangles, 512 points:
+    Simple search: 200058400
+    Map algorithm: [17209100, 21725900]
+    Tree algorithm: [249746500, 61475300]
+
+512 rectangles, 1024 points:
+    Simple search: 821963400
+    Map algorithm: [36142500, 41785500]
+    Tree algorithm: [550913200, 132724200]
+
+1024 rectangles, 2048 points:
+    Simple search: 3492792700
+    Map algorithm: [100234200, 102185600]
+    Tree algorithm: [1486075700, 349617400]
+
+1 rectangles, 2 points:
+    Simple search: 0
+    Map algorithm: [373600, 192100]
+    Tree algorithm: [1194000, 390300]
+
+2 rectangles, 4 points:
+    Simple search: 0
+    Map algorithm: [672000, 430800]
+    Tree algorithm: [2623200, 953800]
+
+4 rectangles, 8 points:
+    Simple search: 0
+    Map algorithm: [1957100, 1424300]
+    Tree algorithm: [9522500, 3487500]
+
+8 rectangles, 16 points:
+    Simple search: 0
+    Map algorithm: [3305600, 2860000]
+    Tree algorithm: [22084000, 7223400]
+
+16 rectangles, 32 points:
+    Simple search: 0
+    Map algorithm: [5594600, 4257500]
+    Tree algorithm: [39751000, 12564700]
+
+32 rectangles, 64 points:
+    Simple search: 0
+    Map algorithm: [14224600, 11681000]
+    Tree algorithm: [120829300, 34291200]
+
+64 rectangles, 128 points:
+    Simple search: 0
+    Map algorithm: [42474100, 39266900]
+    Tree algorithm: [451461100, 115249600]
+
+128 rectangles, 256 points:
+    Simple search: 0
+    Map algorithm: [79163100, 77115500]
+    Tree algorithm: [1026333200, 255016400]
+
+256 rectangles, 512 points:
+    Simple search: 0
+    Map algorithm: [184726300, 190214500]
+    Tree algorithm: [2350011600, 594453600]
+
+512 rectangles, 1024 points:
+    Simple search: 0
+    Map algorithm: [376022300, 395379200]
+    Tree algorithm: [5338579700, 1217033900]
+
+1024 rectangles, 2048 points:
+    Simple search: 0
+    Map algorithm: [727215500, 750741600]
+    Tree algorithm: [12278055900, 2561028300]
+
+1 rectangles, 2 points:
+    Simple search: 43200
+    Map algorithm: [75400, 44600]
+    Tree algorithm: [238100, 87700]
+
+2 rectangles, 4 points:
+    Simple search: 63000
+    Map algorithm: [119500, 70600]
+    Tree algorithm: [479400, 149300]
+
+4 rectangles, 8 points:
+    Simple search: 126200
+    Map algorithm: [259100, 227700]
+    Tree algorithm: [1375000, 484500]
+
+8 rectangles, 16 points:
+    Simple search: 289800
+    Map algorithm: [390500, 359700]
+    Tree algorithm: [2410700, 794400]
+
+16 rectangles, 32 points:
+    Simple search: 1511400
+    Map algorithm: [951700, 788400]
+    Tree algorithm: [6741300, 2354900]
+
+32 rectangles, 64 points:
+    Simple search: 4530200
+    Map algorithm: [2243200, 1813100]
+    Tree algorithm: [19320600, 4709200]
+
+64 rectangles, 128 points:
+    Simple search: 14537600
+    Map algorithm: [3351700, 4485700]
+    Tree algorithm: [43956800, 11451100]
+
+128 rectangles, 256 points:
+    Simple search: 50650500
+    Map algorithm: [9664300, 8058600]
+    Tree algorithm: [89177700, 22310300]
+
+256 rectangles, 512 points:
+    Simple search: 180036700
+    Map algorithm: [19646900, 18241500]
+    Tree algorithm: [201561000, 54008200]
+
+512 rectangles, 1024 points:
+    Simple search: 649658900
+    Map algorithm: [29594900, 32361000]
+    Tree algorithm: [422601100, 111085000]
+
+1024 rectangles, 2048 points:
+    Simple search: 1332512800
+    Map algorithm: [35384600, 39934800]
+    Tree algorithm: [772872800, 156972400]
+
+1 rectangles, 2 points:
+    Simple search: 19600
+    Map algorithm: [60400, 30900]
+    Tree algorithm: [116100, 27300]
+
+2 rectangles, 4 points:
+    Simple search: 22500
+    Map algorithm: [49100, 27000]
+    Tree algorithm: [196200, 53500]
+
+4 rectangles, 8 points:
+    Simple search: 43800
+    Map algorithm: [72100, 48600]
+    Tree algorithm: [392200, 152800]
+
+8 rectangles, 16 points:
+    Simple search: 125700
+    Map algorithm: [134100, 120000]
+    Tree algorithm: [992800, 294200]
+
+16 rectangles, 32 points:
+    Simple search: 341500
+    Map algorithm: [289100, 219900]
+    Tree algorithm: [3308600, 980600]
+
+32 rectangles, 64 points:
+    Simple search: 1623700
+    Map algorithm: [889200, 635900]
+    Tree algorithm: [9243400, 2425100]
+
+64 rectangles, 128 points:
+    Simple search: 4807100
+    Map algorithm: [1326800, 1175700]
+    Tree algorithm: [16870000, 3933700]
+
+128 rectangles, 256 points:
+    Simple search: 21729100
+    Map algorithm: [2699100, 2766900]
+    Tree algorithm: [38991800, 11181300]
+
+256 rectangles, 512 points:
+    Simple search: 78797500
+    Map algorithm: [6994300, 8162400]
+    Tree algorithm: [95830200, 21860700]
+
+512 rectangles, 1024 points:
+    Simple search: 314961900
+    Map algorithm: [14076000, 15443000]
+    Tree algorithm: [245353000, 56364800]
+
+1024 rectangles, 2048 points:
+    Simple search: 1207725200
+    Map algorithm: [33164500, 34949700]
+    Tree algorithm: [631645200, 119831800]
+
